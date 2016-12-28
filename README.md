@@ -6,7 +6,7 @@ More Info: [http://www.w3.org/TR/DDR-Simple-API/](http://www.w3.org/TR/DDR-Simpl
 This is a mavenized version of the Java representation of the API available at [http://www.w3.org/TR/DDR-Simple-API/DDRSimpleAPI.jar](http://www.w3.org/TR/DDR-Simple-API/DDRSimpleAPI.jar)
 
 Clone and deploy to your own repository or get the build from here:
-
+	<repositories>
 		<repository>
 			<id>jcenter</id>
 			<name>JCenter</name>
@@ -28,3 +28,4 @@ Clone and deploy to your own repository or get the build from here:
 			<name>libs-snapshot</name>
 			<url>http://oss.jfrog.org/artifactory/libs-snapshot</url>
 		</repository>
+	</repositories>
