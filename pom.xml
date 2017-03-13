@@ -25,6 +25,25 @@
 	<scm>
 		<url>https://github.com/OpenDDRmobi/w3c-ddr.git</url>
 	</scm>
+	<developers>
+		<developer>
+			<name>Jo Rabin</name>
+			<organization>dotMobi (mTLD Top Level Domain)</organization>
+		</developer>
+		<developer>
+			<name>José Manuel Cantera Fonseca</name>
+			<organization>Telefónica I+D</organization>
+		</developer>
+		<developer>
+			<name>Rotan Hanrahan</name>
+			<organization>MobileAware</organization>
+		</developer>
+		<developer>
+			<name>Ignacio Marín</name>
+			<organization>Fundación CTIC</organization>
+		</developer>
+	</developers>
+
 	<distributionManagement>
 		<repository>
 			<id>bintray-release</id>
