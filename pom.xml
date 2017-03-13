@@ -16,7 +16,17 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+	
+	<licenses>
+		<license>
+			<name>W3C</name>
+			<url>https://opensource.org/licenses/W3C</url>
+		</license>
+	</licenses>
 
+	<scm>
+		<url>https://github.com/OpenDDRmobi/w3c-ddr.git</url>
+	</scm>
 	<distributionManagement>
 		<repository>
 			<id>bintray-release</id>
