@@ -9,13 +9,13 @@ Clone and deploy to your own repository or get the build from here:
 
 ```
 <repositories>
-   <repository>
-      <snapshots>
-          <enabled>true</enabled>
-      </snapshots>
-      <id>ossrh-snapshot</id>
-      <name>OSSRH Snapshots</name>
-      <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
-   </repository>       
+    <repository>
+        <snapshots>
+            <enabled>true</enabled>
+        </snapshots>
+        <id>ossrh-snapshot</id>
+        <name>OSSRH Snapshots</name>
+        <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+    </repository>       
 </repositories>
 ```
