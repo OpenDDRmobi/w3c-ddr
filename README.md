@@ -7,13 +7,15 @@ This is a mavenized version of the Java representation of the API available at [
 
 Clone and deploy to your own repository or get the build from here:
 
-   <repositories>
-        <repository>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-            <id>ossrh-snapshot</id>
-            <name>OSSRH Snapshots</name>
-            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
-        </repository>       
-    </repositories>
+```
+<repositories>
+   <repository>
+      <snapshots>
+          <enabled>true</enabled>
+      </snapshots>
+      <id>ossrh-snapshot</id>
+      <name>OSSRH Snapshots</name>
+      <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+   </repository>       
+</repositories>
+```
